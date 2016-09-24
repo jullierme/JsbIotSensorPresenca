@@ -1,0 +1,18 @@
+{
+    "name": "JsbIotSensorPresenca",
+    "authors":
+    {
+        "name": "Jullierme Barros",
+        "email": "julliermebarros@gmail.com",
+        "url": "https://github.com/jullierme"
+    }
+    "keywords": "JSB,IoT,Arduino,JsbIotSensorPresenca",
+    "description": "JSB IoT Arduino - Biblioteca JSB para utilizar com Arduino IoT",
+    "repository":
+    {
+        "type": "git",
+        "url": "https://github.com/jullierme/JsbIotSensorPresenca.git"
+    },
+    "frameworks": "arduino",
+    "platforms": "*"
+}

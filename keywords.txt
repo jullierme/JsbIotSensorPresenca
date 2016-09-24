@@ -1,0 +1,12 @@
+JsbIotSensorPresenca	KEYWORD1
+ativarLog	KEYWORD2
+desativarLog	KEYWORD3
+desativaSensor	KEYWORD4
+ativaSensor	KEYWORD5
+isSensorAtivo	KEYWORD6
+executar	KEYWORD7
+setTempoMinimoLuzAcesa	KEYWORD8
+getTempoMinimoLuzAcesa	KEYWORD9
+ativarDelayDe1Segundo	KEYWORD10
+desativarDelayDe1Segundo	KEYWORD11
+isAtivarDelayDe1Segundo	KEYWORD12
