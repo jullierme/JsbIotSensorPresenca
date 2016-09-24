@@ -1,6 +1,8 @@
 /*
 *	JsbIotSensorPresenca.h
 *	Autor: Jullierme Barros
+*
+*	Ao adicionar um método aqui, add também em keywords.txt
 */
 
 #ifndef JsbIotSensorPresenca_h
@@ -8,7 +10,6 @@
 
 #include "Arduino.h"
 
-/*Ao adicionar um método aqui, add também em keywords.txt*/
 class JsbIotSensorPresenca{
 	public:
 		JsbIotSensorPresenca(int pinSensorPresenca, int pinRele);
